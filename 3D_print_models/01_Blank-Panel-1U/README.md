@@ -13,5 +13,5 @@ This is a 1U rackmount for your DeskPi rackmate.
 
 
 ## Model
-* [FreeCAD File](3D_print_models/01_Blank-Panel-1U/models/1U-Blank-Panel.FCStd)
+* [FreeCAD File](./models/1U-Blank-Panel.FCStd)
 * [Mechanical Drawing File](./models/DP-0032%201U%20blank%20panel.pdf)
