@@ -3,8 +3,8 @@
 ## Description 
 
 This is a 1U rackmount for your DeskPi rackmate.
- * 유튜브 영상
- *  FreeCAD 사용 방법
+ * 유튜브 영상 참조
+ *  FreeCAD 사용 방법을 익히기 위한 예시입니다.
    
 * Model Size: 250 x 44 x 3.5 mm 
 * Model Type: 1U 
